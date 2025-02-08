@@ -19,6 +19,11 @@ Top Songs List: Display the top 5 most played songs.
 # Install
 Tested in 3.11.
 
+Install FFmpeg
+Windows: Follow the instructions at https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/ to install FFmpeg on your Windows system.   
+Linux: Use your distribution's package manager (e.g., apt-get install ffmpeg on Debian/Ubuntu, yum install ffmpeg on CentOS/RHEL).
+macOS: Use Homebrew (brew install ffmpeg).
+
 Clone the Repository
 ```
 git clone https://github.com/your-username/discord-music-bot.git
