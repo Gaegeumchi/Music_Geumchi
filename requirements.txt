@@ -1,0 +1,5 @@
+discord.py==2.3.2
+aiohttp==3.9.3
+yt-dlp==2025.1.15
+Flask==2.2.5
+python-dotenv==0.21.0
