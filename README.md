@@ -1,4 +1,5 @@
 # Music_Geumchi
+![Image](https://github.com/user-attachments/assets/c5907a24-5f6b-453b-9f77-8a9aa8dc51e1)
 
 # Discord Music Bot with yt-dlp (No YouTube API)
 This Discord music bot utilizes the powerful yt-dlp library to play music directly from YouTube, bypassing the need for the YouTube Data API. This approach offers several advantages, including:
